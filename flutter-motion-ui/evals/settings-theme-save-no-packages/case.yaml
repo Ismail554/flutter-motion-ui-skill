@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: settings-theme-save-no-packages
+expected_outcome: |
+  A runnable Flutter project with no third-party dependencies containing a settings screen whose theme picker animates the whole app between light and dark, three toggles, and a Save button that appears only when settings differ from the saved values and moves through loading to a saved confirmation.

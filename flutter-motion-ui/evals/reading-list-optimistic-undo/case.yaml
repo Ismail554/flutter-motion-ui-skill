@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: reading-list-optimistic-undo
+expected_outcome: |
+  A runnable Flutter project with one reading-list screen that moves through skeleton, error-with-retry, empty and data states, supports pull to refresh, optimistic favouriting that rolls back with feedback on failure, swipe to delete with undo, and adding via a sheet, with animated insertions and removals and no overflow at large text sizes.

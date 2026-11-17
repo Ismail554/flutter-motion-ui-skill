@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: existing-shop-add-cart-checkout
+expected_outcome: |
+  The existing Provider-based shop app gains a working cart, a floating glass bottom bar with a count badge, a cart page with steppers and animated total, and a checkout flow with slide-to-pay, processing, success and a declined path that returns to the cart; the product image is a Hero between list and detail; the existing test still passes and no new state-management package is introduced.

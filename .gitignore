@@ -1,0 +1,17 @@
+# Source recordings and trial outputs stay local
+reference_video/
+flutter-motion-ui-workspace/
+
+# Built package is attached to releases instead
+*.skill
+
+# Flutter / Dart
+.dart_tool/
+build/
+.idea/
+*.iml
+pubspec.lock
+
+# OS
+.DS_Store
+Thumbs.db

@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: phone-otp-verification-flow
+expected_outcome: |
+  A runnable Flutter project using Riverpod with phone entry, a 6-digit code step with resend countdown, animated wrong-code feedback that lets the user retry, and a verified screen; transitions between steps are animated and the flow state is modelled explicitly.

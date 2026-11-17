@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: food-home-glass-nav-hero
+expected_outcome: |
+  A runnable Flutter project with a floating blurred glass bottom navigation bar over scrolling content, a home tab with header, chips and restaurant cards, a Hero transition into a detail page with an add-to-cart menu and a live cart total, using one consistent set of design tokens and transitions.

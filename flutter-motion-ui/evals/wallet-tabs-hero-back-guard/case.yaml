@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: wallet-tabs-hero-back-guard
+expected_outcome: |
+  A runnable Riverpod Flutter wallet with a floating glass bar over three state-preserving tabs with their own navigators, an animated balance, a card carousel with Hero into details, and a transfer flow (keypad, slide to confirm, processing, success or insufficient-funds failure that keeps the amount) that blocks back while processing and updates balance and activity from one source of truth; system back returns to Home before exiting.
